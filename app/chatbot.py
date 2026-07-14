@@ -49,9 +49,9 @@ class RAGChatbot:
         # Retrieve lebih banyak dokumen untuk coverage yang lebih baik
         self.retriever = self.vectordb.as_retriever(search_kwargs={"k": 7})
         
-        # Initialize Groq LLM using the llama3 model
+        # Initialize Groq LLM using the latest llama model
         self.llm = ChatGroq(
-            model_name="llama3-8b-8192",
+            model_name="llama-3.1-8b-instant",
             temperature=0.0,
         )
         self.qa_chain = RetrievalQA.from_chain_type(
