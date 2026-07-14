@@ -12,3 +12,4 @@ pymysql
 sqlalchemy
 python-multipart
 cryptography
+langchain-groq
