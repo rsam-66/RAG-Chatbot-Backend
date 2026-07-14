@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-core
+chromadb
+sentence-transformers
+pydantic
+python-docx
+tqdm
+pymysql
+sqlalchemy
+python-multipart
+cryptography

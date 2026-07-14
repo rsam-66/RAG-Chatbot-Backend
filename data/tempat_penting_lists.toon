@@ -1,0 +1,798 @@
+place:
+  id: bank-btn-pangandaran
+  n: Bank BTN Pangandaran
+  cat: ATM dan Bank
+  url: https://www.mypangandaran.com/place/bank-btn-pangandaran
+  img: https://www.mypangandaran.com/gambar/place/place-bank-btn-pangandaran-270-l.jpg
+---
+place:
+  id: bank-bjb-cabang-pangandaran
+  n: Bank BJB Cabang Pangandaran
+  cat: ATM dan Bank
+  url: https://www.mypangandaran.com/place/bank-bjb-cabang-pangandaran
+  img: https://www.mypangandaran.com/gambar/place/place-bank-bjb-cabang-pangandaran-269.jpg
+---
+place:
+  id: bank-woori-saudara
+  n: Bank Woori Saudara
+  cat: ATM dan Bank
+  url: https://www.mypangandaran.com/place/bank-woori-saudara
+  img: https://www.mypangandaran.com/gambar/place/place-bank-woori-saudara-266.jpg
+---
+place:
+  id: atm-mandiri-depan-bumi-nusantara
+  n: ATM MANDIRI depan Bumi Nusantara
+  cat: ATM dan Bank
+  url: https://www.mypangandaran.com/place/atm-mandiri-depan-bumi-nusantara
+  img: https://www.mypangandaran.com/gambar/place/place-atm-mandiri-depan-bumi-nusantara-217.jpg
+---
+place:
+  id: atm-bni-depan-nyiur-indah-resort
+  n: ATM BNI depan Nyiur Indah Resort
+  cat: ATM dan Bank
+  url: https://www.mypangandaran.com/place/atm-bni-depan-nyiur-indah-resort
+  img: https://www.mypangandaran.com/gambar/place/place-atm-bni-depan-nyiur-indah-resort-216.jpg
+---
+place:
+  id: atm-bni-depan-hotel-sun-in-pangandaran
+  n: ATM BNI depan Hotel Sun In Pangandaran
+  cat: ATM dan Bank
+  url: https://www.mypangandaran.com/place/atm-bni-depan-hotel-sun-in-pangandaran
+  img: https://www.mypangandaran.com/gambar/place/place-atm-bni-depan-sun-in-hotel-pangandaran-215.jpg
+---
+place:
+  id: atm-bca-alfamart-jl-kidang-pananjung
+  n: ATM BCA Alfamart Jl. Kidang Pananjung
+  cat: ATM dan Bank
+  url: https://www.mypangandaran.com/place/atm-bca-alfamart-jl-kidang-pananjung
+  img: https://www.mypangandaran.com/gambar/place/place-atm-bca-alfamart-jl-kidang-pananjung-214.jpg
+---
+place:
+  id: bpr-sehat-ekonomi-pangandaran
+  n: BPR Sehat Ekonomi Pangandaran
+  cat: ATM dan Bank
+  url: https://www.mypangandaran.com/place/bpr-sehat-ekonomi-pangandaran
+  img: https://www.mypangandaran.com/gambar/place/place-bpr-sehat-ekonomi-pangandaran-191.jpg
+---
+place:
+  id: bank-bri-pananjung
+  n: Bank BRI Pananjung
+  cat: ATM dan Bank
+  url: https://www.mypangandaran.com/place/bank-bri-pananjung
+  img: 
+---
+place:
+  id: atm-center-pantai-barat-pangandaran
+  n: Atm Center Pantai Barat Pangandaran
+  cat: ATM dan Bank
+  url: https://www.mypangandaran.com/place/atm-center-pantai-barat-pangandaran
+  img: https://www.mypangandaran.com/gambar/place/informasi-atm-center-pantai-barat-pangandaran-164.jpg
+---
+place:
+  id: bank-negara-indonesia-bni-pananjung
+  n: Bank Negara Indonesia (BNI) Pananjung
+  cat: ATM dan Bank
+  url: https://www.mypangandaran.com/place/bank-negara-indonesia-bni-pananjung
+  img: https://www.mypangandaran.com/gambar/place/informasi-bank-negara-indonesia-bni-pananjung-139_a.jpg
+---
+place:
+  id: bank-bri-pangandaran-2
+  n: Bank BRI Pangandaran 2
+  cat: ATM dan Bank
+  url: https://www.mypangandaran.com/place/bank-bri-pangandaran-2
+  img: https://www.mypangandaran.com/gambar/place/informasi-bank-bri-pangandaran-2-138.jpg
+---
+place:
+  id: bank-bri-pangandaran-1
+  n: Bank BRI Pangandaran 1
+  cat: ATM dan Bank
+  url: https://www.mypangandaran.com/place/bank-bri-pangandaran-1
+  img: https://www.mypangandaran.com/gambar/place/informasi-bank-bri-19.jpg
+---
+place:
+  id: bank-negara-indonesia-bni
+  n: Bank Negara Indonesia (BNI)
+  cat: ATM dan Bank
+  url: https://www.mypangandaran.com/place/bank-negara-indonesia-bni
+  img: https://www.mypangandaran.com/gambar/place/informasi-bank-nasional-indonesia-15.jpg
+---
+place:
+  id: pusat-belanja-nanjung-endah
+  n: Pusat Belanja Nanjung Endah
+  cat: Belanja
+  url: https://www.mypangandaran.com/place/pusat-belanja-nanjung-endah
+  img: https://www.mypangandaran.com/gambar/place/place-pusat-belanja-nanjung-endah-256-l.jpg
+---
+place:
+  id: pusat-belanja-nanjung-elok
+  n: Pusat Belanja Nanjung Elok
+  cat: Belanja
+  url: https://www.mypangandaran.com/place/pusat-belanja-nanjung-elok
+  img: https://www.mypangandaran.com/gambar/place/place-pusat-belanja-nanjung-elok-255.jpg
+---
+place:
+  id: pusat-belanja-nanjung-sari
+  n: Pusat Belanja Nanjung Sari
+  cat: Belanja
+  url: https://www.mypangandaran.com/place/pusat-belanja-nanjung-sari
+  img: https://www.mypangandaran.com/gambar/place/place-pusat-belanja-nanjung-sari-254.jpg
+---
+place:
+  id: pusat-belanja-nanjung-asri
+  n: Pusat Belanja Nanjung Asri
+  cat: Belanja
+  url: https://www.mypangandaran.com/place/pusat-belanja-nanjung-asri
+  img: https://www.mypangandaran.com/gambar/place/place-pusat-belanja-nanjung-asri-253.jpg
+---
+place:
+  id: pasar-wisata-pangandaran
+  n: Pasar Wisata Pangandaran
+  cat: Belanja
+  url: https://www.mypangandaran.com/place/pasar-wisata-pangandaran
+  img: https://www.mypangandaran.com/gambar/place/place-pasar-wisata-pangandaran-225.jpg
+---
+place:
+  id: indomaret-wonoharjo-3
+  n: Indomaret Wonoharjo 3
+  cat: Belanja
+  url: https://www.mypangandaran.com/place/indomaret-wonoharjo-3
+  img: https://www.mypangandaran.com/gambar/place/place-indomaret-wonoharjo-3-198.jpg
+---
+place:
+  id: indomaret-wonoharjo-2
+  n: Indomaret Wonoharjo 2
+  cat: Belanja
+  url: https://www.mypangandaran.com/place/indomaret-wonoharjo-2
+  img: https://www.mypangandaran.com/gambar/place/place-indomaret-wonoharjo-2-197.jpg
+---
+place:
+  id: indomaret-wonoharjo-1
+  n: Indomaret Wonoharjo 1
+  cat: Belanja
+  url: https://www.mypangandaran.com/place/indomaret-wonoharjo-1
+  img: https://www.mypangandaran.com/gambar/place/place-indomaret-wonoharjo-1-196.jpg
+---
+place:
+  id: indomaret-jl-pramuka
+  n: Indomaret Jl Pramuka
+  cat: Belanja
+  url: https://www.mypangandaran.com/place/indomaret-jl-pramuka
+  img: https://www.mypangandaran.com/gambar/place/place-indomaret-jl-pramuka-195.jpg
+---
+place:
+  id: indomaret-parapat
+  n: Indomaret Parapat
+  cat: Belanja
+  url: https://www.mypangandaran.com/place/indomaret-parapat
+  img: https://www.mypangandaran.com/gambar/place/place-indomaret-parapat-194.jpg
+---
+place:
+  id: indomaret-pasar-wisata
+  n: Indomaret Pasar Wisata
+  cat: Belanja
+  url: https://www.mypangandaran.com/place/indomaret-pasar-wisata
+  img: https://www.mypangandaran.com/gambar/place/place-indomaret-pasar-wisata-193-l.jpg
+---
+place:
+  id: indomaret-babakan-2
+  n: Indomaret Babakan 2
+  cat: Belanja
+  url: https://www.mypangandaran.com/place/indomaret-babakan-2
+  img: https://www.mypangandaran.com/gambar/place/place-indomaret-babakan-2-192.png
+---
+place:
+  id: indomaret-pangandaran-sunset
+  n: Indomaret Pangandaran Sunset
+  cat: Belanja
+  url: https://www.mypangandaran.com/place/indomaret-pangandaran-sunset
+  img: https://www.mypangandaran.com/gambar/place/place-indomaret-pangandaran-sunset-190.png
+---
+place:
+  id: srikaton-pangandaran
+  n: SRIKATON PANGANDARAN
+  cat: Belanja
+  url: https://www.mypangandaran.com/place/srikaton-pangandaran
+  img: https://www.mypangandaran.com/gambar/place/place-srikaton-pangandaran-178.jpg
+---
+place:
+  id: alfamart-pangandaran-2
+  n: Alfamart Pangandaran 2
+  cat: Belanja
+  url: https://www.mypangandaran.com/place/alfamart-pangandaran-2
+  img: https://www.mypangandaran.com/gambar/place/informasi-alfamart-pangandaran-2-140.jpg
+---
+place:
+  id: pusat-souvenir-oleh-oleh-pangandaran
+  n: Pusat Souvenir Oleh-oleh Pangandaran
+  cat: Belanja
+  url: https://www.mypangandaran.com/place/pusat-souvenir-oleh-oleh-pangandaran
+  img: https://www.mypangandaran.com/gambar/place/informasi-pusat-souvenir-oleh-oleh-pangandaran-133.jpg
+---
+place:
+  id: kios-jambal-roti-kukun-kentung
+  n: Kios Jambal Roti Kukun Kentung
+  cat: Belanja
+  url: https://www.mypangandaran.com/place/kios-jambal-roti-kukun-kentung
+  img: https://www.mypangandaran.com/gambar/place/informasi-kios-jambal-roti-kukun-kentung-132.jpg
+---
+place:
+  id: pasar-wisata-pangandaran
+  n: Pasar Wisata Pangandaran
+  cat: Belanja
+  url: https://www.mypangandaran.com/place/pasar-wisata-pangandaran
+  img: https://www.mypangandaran.com/gambar/place/informasi-pasar-wisata-pangandaran-131.jpg
+---
+place:
+  id: pasar-pangandaran
+  n: Pasar Pangandaran
+  cat: Belanja
+  url: https://www.mypangandaran.com/place/pasar-pangandaran
+  img: https://www.mypangandaran.com/gambar/place/place-pasar-pangandaran-126.jpg
+---
+place:
+  id: indomaret-simpang-5
+  n: Indomaret Simpang 5
+  cat: Belanja
+  url: https://www.mypangandaran.com/place/indomaret-simpang-5
+  img: https://www.mypangandaran.com/gambar/place/informasi-indomaret-21.jpg
+---
+place:
+  id: alfamart
+  n: Alfamart
+  cat: Belanja
+  url: https://www.mypangandaran.com/place/alfamart
+  img: https://www.mypangandaran.com/gambar/place/informasi-alfamart-20_a.jpg
+---
+place:
+  id: dede-bagong-souvenir
+  n: Dede Bagong Souvenir
+  cat: Belanja
+  url: https://www.mypangandaran.com/place/dede-bagong-souvenir
+  img: https://www.mypangandaran.com/gambar/place/informasi-dede-bagong-souvenir-18.jpg
+---
+place:
+  id: masjid-besar-al-istiqomah
+  n: Masjid Besar Al-Istiqomah
+  cat: Fasilitas Umum
+  url: https://www.mypangandaran.com/place/masjid-besar-al-istiqomah
+  img: https://www.mypangandaran.com/gambar/place/place---l.jpg
+---
+place:
+  id: pusat-informasi-taman-wisata-alam-twa-pangandaran
+  n: Pusat Informasi Taman Wisata Alam (TWA) Pangandaran
+  cat: Fasilitas Umum
+  url: https://www.mypangandaran.com/place/pusat-informasi-taman-wisata-alam-twa-pangandaran
+  img: https://www.mypangandaran.com/gambar/place/place-pusat-informasi-taman-wisata-alam-twa-pangandaran-272.jpg
+---
+place:
+  id: alfamart-bulak-laut
+  n: Alfamart Bulak Laut
+  cat: Fasilitas Umum
+  url: https://www.mypangandaran.com/place/alfamart-bulak-laut
+  img: https://www.mypangandaran.com/gambar/place/place-alfamart-bulak-laut-263.jpg
+---
+place:
+  id: pool-budiman-pangandaran
+  n: Pool Budiman Pangandaran
+  cat: Fasilitas Umum
+  url: https://www.mypangandaran.com/place/pool-budiman-pangandaran
+  img: https://www.mypangandaran.com/gambar/place/place-pool-budiman-pangandaran-241.jpg
+---
+place:
+  id: grapari-telkomsel-pangandaran
+  n: Grapari Telkomsel Pangandaran
+  cat: Fasilitas Umum
+  url: https://www.mypangandaran.com/place/grapari-telkomsel-pangandaran
+  img: https://www.mypangandaran.com/gambar/place/place-grapari-telkomsel-pangandaran-240.jpg
+---
+place:
+  id: terminal-pangandaran
+  n: Terminal Pangandaran
+  cat: Fasilitas Umum
+  url: https://www.mypangandaran.com/place/terminal-pangandaran
+  img: https://www.mypangandaran.com/gambar/place/informasi-terminal-pangandaran-122.jpg
+---
+place:
+  id: pondok-yoi-pangandaran
+  n: Pondok Yoi Pangandaran
+  cat: Hotel dan Penginapan
+  url: https://www.mypangandaran.com/place/pondok-yoi-pangandaran
+  img: https://www.mypangandaran.com/gambar/place/place---l.jpg
+---
+place:
+  id: polsek-parigi
+  n: Polsek Parigi
+  cat: Instansi Pemerintah
+  url: https://www.mypangandaran.com/place/polsek-parigi
+  img: 
+---
+place:
+  id: polsek-pangandaran
+  n: Polsek Pangandaran
+  cat: Instansi Pemerintah
+  url: https://www.mypangandaran.com/place/polsek-pangandaran
+  img: https://www.mypangandaran.com/gambar/place/place-polsek-pangandaran-242.jpg
+---
+place:
+  id: kecamatan-langkaplancar
+  n: Kecamatan Langkaplancar
+  cat: Instansi Pemerintah
+  url: https://www.mypangandaran.com/place/kecamatan-langkaplancar
+  img: 
+---
+place:
+  id: kecamatan-cigugur
+  n: Kecamatan Cigugur
+  cat: Instansi Pemerintah
+  url: https://www.mypangandaran.com/place/kecamatan-cigugur
+  img: 
+---
+place:
+  id: kecamatan-pangandaran
+  n: Kecamatan Pangandaran
+  cat: Instansi Pemerintah
+  url: https://www.mypangandaran.com/place/kecamatan-pangandaran
+  img: https://www.mypangandaran.com/gambar/place/place-kecamatan-pangandaran-227.jpg
+---
+place:
+  id: dinas-pariwisata-dan-kebudayaan
+  n: Dinas Pariwisata dan Kebudayaan
+  cat: Instansi Pemerintah
+  url: https://www.mypangandaran.com/place/dinas-pariwisata-dan-kebudayaan
+  img: https://www.mypangandaran.com/gambar/place/place-dinas-pariwisata-dan-kebudayaan-179.jpg
+---
+place:
+  id: dinas-komunikasi-informatika-statistik-dan-persandian
+  n: DINAS KOMUNIKASI INFORMATIKA STATISTIK DAN PERSANDIAN
+  cat: Instansi Pemerintah
+  url: https://www.mypangandaran.com/place/dinas-komunikasi-informatika-statistik-dan-persandian
+  img: https://www.mypangandaran.com/gambar/place/place-dinas-komunikasi-informatika-statistik-dan-persandian-176.jpg
+---
+place:
+  id: kantor-phri-ciamis
+  n: Kantor PHRI Ciamis
+  cat: Instansi Pemerintah
+  url: https://www.mypangandaran.com/place/kantor-phri-ciamis
+  img: https://www.mypangandaran.com/gambar/place/informasi-kantor-phri-ciamis-119.jpg
+---
+place:
+  id: uptd-kebudayaan-dan-pariwisata--pangandaran
+  n: UPTD Kebudayaan Dan Pariwisata Pangandaran
+  cat: Instansi Pemerintah
+  url: https://www.mypangandaran.com/place/uptd-kebudayaan-dan-pariwisata--pangandaran
+  img: https://www.mypangandaran.com/gambar/place/informasi-uptd-kebudayaan-dan-pariwisata--pngandaran-113.jpg
+---
+place:
+  id: uptd-pendapatan-pengolahan-keuangan-dan-aset-daerah
+  n: UPTD Pendapatan, Pengolahan Keuangan, dan Aset Daerah
+  cat: Instansi Pemerintah
+  url: https://www.mypangandaran.com/place/uptd-pendapatan-pengolahan-keuangan-dan-aset-daerah
+  img: https://www.mypangandaran.com/gambar/place/informasi-uptd-pendapatan-pengolahan-keuangan-dan-aset-daerah-112.jpg
+---
+place:
+  id: apotek-jaya-medika-pangandaran
+  n: Apotek Jaya Medika Pangandaran
+  cat: Kesehatan
+  url: https://www.mypangandaran.com/place/apotek-jaya-medika-pangandaran
+  img: https://www.mypangandaran.com/gambar/place/place-apotek-jaya-medika-pangandaran-271-l.jpg
+---
+place:
+  id: apotik-ating-pangandaran
+  n: Apotik Ating Pangandaran
+  cat: Kesehatan
+  url: https://www.mypangandaran.com/place/apotik-ating-pangandaran
+  img: https://www.mypangandaran.com/gambar/place/place-apotik-ating-pangandaran-267.jpg
+---
+place:
+  id: de-wave-therapy-amp-reflexology-pangandaran
+  n: De Wave Therapy & Reflexology Pangandaran
+  cat: Kesehatan
+  url: https://www.mypangandaran.com/place/de-wave-therapy-amp-reflexology-pangandaran
+  img: https://www.mypangandaran.com/gambar/place/place-de-wave-therapy-amp-reflexology-pangandaran-261.jpg
+---
+place:
+  id: puskesmas-cikembulan
+  n: Puskesmas Cikembulan
+  cat: Kesehatan
+  url: https://www.mypangandaran.com/place/puskesmas-cikembulan
+  img: https://www.mypangandaran.com/gambar/place/place--247.jpg
+---
+place:
+  id: apotek-k-24-pangandaran
+  n: Apotek K-24 Pangandaran
+  cat: Kesehatan
+  url: https://www.mypangandaran.com/place/apotek-k-24-pangandaran
+  img: https://www.mypangandaran.com/gambar/place/place-apotek-k-24-pangandaran-135.jpg
+---
+place:
+  id: puskesmas-pangandaran
+  n: Puskesmas Pangandaran
+  cat: Kesehatan
+  url: https://www.mypangandaran.com/place/puskesmas-pangandaran
+  img: https://www.mypangandaran.com/gambar/place/place-puskesmas-pangandaran-13.jpg
+---
+place:
+  id: acoustic-family-karaoke
+  n: acoustic family karaoke
+  cat: Lainnya
+  url: https://www.mypangandaran.com/place/acoustic-family-karaoke
+  img: https://www.mypangandaran.com/gambar/place/place-acoustic-family-karaoke-259-l.jpg
+---
+place:
+  id: kantor-pos-pangandaran
+  n: Kantor Pos Pangandaran
+  cat: Lainnya
+  url: https://www.mypangandaran.com/place/kantor-pos-pangandaran
+  img: https://www.mypangandaran.com/gambar/place/place-kantor-pos-pangandaran-223.jpg
+---
+place:
+  id: baso-podomoro
+  n: Baso Podomoro
+  cat: Lainnya
+  url: https://www.mypangandaran.com/place/baso-podomoro
+  img: https://www.mypangandaran.com/gambar/place/informasi-baso-podomoro-142.jpg
+---
+place:
+  id: spbu-pangandaran-1
+  n: SPBU Pangandaran 1
+  cat: Lainnya
+  url: https://www.mypangandaran.com/place/spbu-pangandaran-1
+  img: https://www.mypangandaran.com/gambar/place/informasi-spbu-pangandaran-1-141.jpg
+---
+place:
+  id: rumah-kreatif-bumn-pangandaran
+  n: Rumah Kreatif BUMN Pangandaran
+  cat: Lembaga atau Organisasi
+  url: https://www.mypangandaran.com/place/rumah-kreatif-bumn-pangandaran
+  img: https://www.mypangandaran.com/gambar/place/place-rumah-kreatif-bumn-pangandaran-245-l.jpg
+---
+place:
+  id: bdc-kabupaten-pangandaran
+  n: BDC Kabupaten Pangandaran
+  cat: Lembaga atau Organisasi
+  url: https://www.mypangandaran.com/place/bdc-kabupaten-pangandaran
+  img: https://www.mypangandaran.com/gambar/place/place-bdc-kabupaten-pangandaran-239.jpg
+---
+place:
+  id: lapang-basket-pangandaran-creative-space
+  n: Lapang Basket Pangandaran Creative Space
+  cat: Olahraga
+  url: https://www.mypangandaran.com/place/lapang-basket-pangandaran-creative-space
+  img: https://www.mypangandaran.com/gambar/place/place-lapang-basket-pangandaran-creative-space-251-l.jpg
+---
+place:
+  id: trijaya-watersport-pangandaran
+  n: Trijaya Watersport Pangandaran
+  cat: Olahraga
+  url: https://www.mypangandaran.com/place/trijaya-watersport-pangandaran
+  img: https://www.mypangandaran.com/gambar/place/informasi-trijaya-watersport-155.jpg
+---
+place:
+  id: body-rafting-ki-sunda-dan-lesehan-saung-supa
+  n: Body Rafting Ki Sunda dan Lesehan Saung Supa
+  cat: Olahraga
+  url: https://www.mypangandaran.com/place/body-rafting-ki-sunda-dan-lesehan-saung-supa
+  img: https://www.mypangandaran.com/gambar/place/informasi-body-rafting-ki-sunda-dan-lesehan-saung-supa-149.jpg
+---
+place:
+  id: anita-water-sport-pangandaran
+  n: Anita Water Sport Pangandaran
+  cat: Olahraga
+  url: https://www.mypangandaran.com/place/anita-water-sport-pangandaran
+  img: https://www.mypangandaran.com/gambar/place/informasi-anita-water-sport-pangandaran-144.jpg
+---
+place:
+  id: lapang-volley
+  n: Lapang Volley
+  cat: Olahraga
+  url: https://www.mypangandaran.com/place/lapang-volley
+  img: https://www.mypangandaran.com/gambar/place/informasi-lapang-volley-91.jpg
+---
+place:
+  id: yamaha-harapan-motor-pangandaran
+  n: Yamaha Harapan Motor Pangandaran
+  cat: Otomotif
+  url: https://www.mypangandaran.com/place/yamaha-harapan-motor-pangandaran
+  img: https://www.mypangandaran.com/gambar/place/place-yamaha-harapan-motor-pangandaran-257-l.jpg
+---
+place:
+  id: djembatan-bursa-motor-pangandaran
+  n: Djembatan Bursa Motor Pangandaran
+  cat: Otomotif
+  url: https://www.mypangandaran.com/place/djembatan-bursa-motor-pangandaran
+  img: https://www.mypangandaran.com/gambar/place/place-djembatan-bursa-motor-pangandaran-203.jpg
+---
+place:
+  id: tirto-sari-auto-care
+  n: Tirto Sari Auto Care
+  cat: Otomotif
+  url: https://www.mypangandaran.com/place/tirto-sari-auto-care
+  img: https://www.mypangandaran.com/gambar/place/place-tirto-sari-auto-care-175.jpg
+---
+place:
+  id: jg-motor-pangandaran
+  n: JG Motor Pangandaran
+  cat: Otomotif
+  url: https://www.mypangandaran.com/place/jg-motor-pangandaran
+  img: https://www.mypangandaran.com/gambar/place/informasi-jg-motor-pangandaran-169.jpg
+---
+place:
+  id: netral-jaya-motor-pangandaran
+  n: Netral Jaya Motor Pangandaran
+  cat: Otomotif
+  url: https://www.mypangandaran.com/place/netral-jaya-motor-pangandaran
+  img: https://www.mypangandaran.com/gambar/place/informasi-netral-jaya-motor-pangandaran-163.jpg
+---
+place:
+  id: universitas-padjadjaran-pangandaran
+  n: Universitas Padjadjaran Pangandaran
+  cat: Pendidikan
+  url: https://www.mypangandaran.com/place/universitas-padjadjaran-pangandaran
+  img: https://www.mypangandaran.com/gambar/place/place---l.jpg
+---
+place:
+  id: lpk-central-informatika-nusantara
+  n: LPK Central Informatika Nusantara
+  cat: Pendidikan
+  url: https://www.mypangandaran.com/place/lpk-central-informatika-nusantara
+  img: https://www.mypangandaran.com/gambar/place/informasi-lpk-central-informatika-nusantara-124.jpg
+---
+place:
+  id: smp-negeri-1-pangandaran
+  n: SMP Negeri 1 Pangandaran
+  cat: Pendidikan
+  url: https://www.mypangandaran.com/place/smp-negeri-1-pangandaran
+  img: https://www.mypangandaran.com/gambar/place/informasi-smp-negeri-1-pangandaran-23.jpg
+---
+place:
+  id: smk-negeri-1-pangandaran
+  n: SMK Negeri 1 Pangandaran
+  cat: Pendidikan
+  url: https://www.mypangandaran.com/place/smk-negeri-1-pangandaran
+  img: https://www.mypangandaran.com/gambar/place/informasi-smk-negeri-1-pangandaran-22.jpg
+---
+place:
+  id: sman-1-pangandaran
+  n: SMAN 1 Pangandaran
+  cat: Pendidikan
+  url: https://www.mypangandaran.com/place/sman-1-pangandaran
+  img: https://www.mypangandaran.com/gambar/place/informasi-sman-1-pangandaran-4.jpg
+---
+place:
+  id: j-amp-t-expres-pangandaran
+  n: J&T Expres Pangandaran
+  cat: Perusahaan Swasta
+  url: https://www.mypangandaran.com/place/j-amp-t-expres-pangandaran
+  img: https://www.mypangandaran.com/gambar/place/place-j-amp-t-expres-pangandaran-265-l.jpg
+---
+place:
+  id: jne-cabang-pangandaran
+  n: JNE Cabang Pangandaran
+  cat: Perusahaan Swasta
+  url: https://www.mypangandaran.com/place/jne-cabang-pangandaran
+  img: https://www.mypangandaran.com/gambar/place/place-kantor-jne-cabang-pangandaran-264.jpg
+---
+place:
+  id: kantor-pemasaran-grand-pangandaran
+  n: Kantor Pemasaran Grand Pangandaran
+  cat: Perusahaan Swasta
+  url: https://www.mypangandaran.com/place/kantor-pemasaran-grand-pangandaran
+  img: https://www.mypangandaran.com/gambar/place/place-kantor-pemasaran-grand-pangandaran-249.jpg
+---
+place:
+  id: telkomsel-distributor-center
+  n: Telkomsel Distributor Center
+  cat: Perusahaan Swasta
+  url: https://www.mypangandaran.com/place/telkomsel-distributor-center
+  img: https://www.mypangandaran.com/gambar/place/place-telkomsel-distributor-center-237.jpg
+---
+place:
+  id: nasi-goreng-mang-zainal
+  n: Nasi Goreng Mang Zainal
+  cat: Restaurant dan Cafe
+  url: https://www.mypangandaran.com/place/nasi-goreng-mang-zainal
+  img: https://www.mypangandaran.com/gambar/place/place-nasi-goreng-mas-zaenal-262-l.jpg
+---
+place:
+  id: ayam-geprek-pak-ndut
+  n: Ayam Geprek Pak Ndut
+  cat: Restaurant dan Cafe
+  url: https://www.mypangandaran.com/place/ayam-geprek-pak-ndut
+  img: https://www.mypangandaran.com/gambar/place/place-ayam-geprek-pak-ndut-260.jpg
+---
+place:
+  id: rumah-makan-tuah-sakato-khas-minang
+  n: Rumah Makan Tuah Sakato Khas Minang
+  cat: Restaurant dan Cafe
+  url: https://www.mypangandaran.com/place/rumah-makan-tuah-sakato-khas-minang
+  img: https://www.mypangandaran.com/gambar/place/place-rumah-makan-tuah-sakato-khas-minang-258.jpg
+---
+place:
+  id: pasanggrahan-cafe-amp-resto
+  n: Pasanggrahan Cafe & Resto
+  cat: Restaurant dan Cafe
+  url: https://www.mypangandaran.com/place/pasanggrahan-cafe-amp-resto
+  img: https://www.mypangandaran.com/gambar/place/place-pasanggrahan-cafe-amp-resto-252.jpg
+---
+place:
+  id: kfc-pangandaran
+  n: KFC Pangandaran
+  cat: Restaurant dan Cafe
+  url: https://www.mypangandaran.com/place/kfc-pangandaran
+  img: https://www.mypangandaran.com/gambar/place/place-kfc-pangandaran-246.jpg
+---
+place:
+  id: rm-karya-bahari-3
+  n: RM. Karya Bahari 3
+  cat: Restaurant dan Cafe
+  url: https://www.mypangandaran.com/place/rm-karya-bahari-3
+  img: https://www.mypangandaran.com/gambar/place/place-rm-karya-bahari-3-244.jpg
+---
+place:
+  id: cfc-pangandaran
+  n: CFC Pangandaran
+  cat: Restaurant dan Cafe
+  url: https://www.mypangandaran.com/place/cfc-pangandaran
+  img: https://www.mypangandaran.com/gambar/place/place-cfc-pangandaran-238.jpg
+---
+place:
+  id: a-amp-r-resto-dan-cafe
+  n: A&R Resto dan Cafe
+  cat: Restaurant dan Cafe
+  url: https://www.mypangandaran.com/place/a-amp-r-resto-dan-cafe
+  img: https://www.mypangandaran.com/gambar/place/place-a-amp-r-resto-dan-cafe-236.jpg
+---
+place:
+  id: ayam-bakar-selera-nyonya
+  n: Ayam Bakar Selera Nyonya
+  cat: Restaurant dan Cafe
+  url: https://www.mypangandaran.com/place/ayam-bakar-selera-nyonya
+  img: https://www.mypangandaran.com/gambar/place/informasi-ayam-bakar-selera-nyonya-173.jpg
+---
+place:
+  id: rm-kidang-mas-putra-2
+  n: RM. Kidang Mas Putra 2
+  cat: Restaurant dan Cafe
+  url: https://www.mypangandaran.com/place/rm-kidang-mas-putra-2
+  img: https://www.mypangandaran.com/gambar/place/informasi-rm-kidang-mas-putra-2-172.jpg
+---
+place:
+  id: rumah-makan-laksana
+  n: Rumah Makan Laksana
+  cat: Restaurant dan Cafe
+  url: https://www.mypangandaran.com/place/rumah-makan-laksana
+  img: https://www.mypangandaran.com/gambar/place/informasi-rumah-makan-laksana-171_a.jpg
+---
+place:
+  id: owen-pusat-oleh-oleh-babakan
+  n: Owen Pusat Oleh-oleh Babakan
+  cat: Restaurant dan Cafe
+  url: https://www.mypangandaran.com/place/owen-pusat-oleh-oleh-babakan
+  img: https://www.mypangandaran.com/gambar/place/informasi-owen-pusat-oleh-oleh-babakan-165.jpg
+---
+place:
+  id: rm-tirta-bahari
+  n: RM TIRTA BAHARI
+  cat: Restaurant dan Cafe
+  url: https://www.mypangandaran.com/place/rm-tirta-bahari
+  img: https://www.mypangandaran.com/gambar/place/informasi-rm-tirta-bahari-161.jpg
+---
+place:
+  id: rm-mina-bahari
+  n: RM Mina Bahari
+  cat: Restaurant dan Cafe
+  url: https://www.mypangandaran.com/place/rm-mina-bahari
+  img: https://www.mypangandaran.com/gambar/place/informasi-rm-mina-bahari-158.jpg
+---
+place:
+  id: rumah-makan-sauyunan
+  n: Rumah Makan Sauyunan
+  cat: Restaurant dan Cafe
+  url: https://www.mypangandaran.com/place/rumah-makan-sauyunan
+  img: https://www.mypangandaran.com/gambar/place/informasi-rumah-makan-sauyunan-157.jpg
+---
+place:
+  id: sari-laut-rasa-sayang
+  n: Sari Laut Rasa Sayang
+  cat: Restaurant dan Cafe
+  url: https://www.mypangandaran.com/place/sari-laut-rasa-sayang
+  img: https://www.mypangandaran.com/gambar/place/informasi-sari-laut-rasa-sayang-147.jpg
+---
+place:
+  id: warung-sate-galunggung
+  n: Warung Sate Galunggung
+  cat: Restaurant dan Cafe
+  url: https://www.mypangandaran.com/place/warung-sate-galunggung
+  img: https://www.mypangandaran.com/gambar/place/informasi-warung-sate-galunggung-145.jpg
+---
+place:
+  id: puja-sera-nanjung
+  n: Puja Sera Nanjung
+  cat: Restaurant dan Cafe
+  url: https://www.mypangandaran.com/place/puja-sera-nanjung
+  img: https://www.mypangandaran.com/gambar/place/informasi-puja-sera-nanjung-128.jpg
+---
+place:
+  id: rm-bu-surman
+  n: R.M Bu Surman
+  cat: Restaurant dan Cafe
+  url: https://www.mypangandaran.com/place/rm-bu-surman
+  img: https://www.mypangandaran.com/gambar/place/informasi-rm-bu-surman-127.jpg
+---
+place:
+  id: rm-kidang-mas-1
+  n: RM Kidang Mas 1
+  cat: Restaurant dan Cafe
+  url: https://www.mypangandaran.com/place/rm-kidang-mas-1
+  img: https://www.mypangandaran.com/gambar/place/informasi-rm-kidang-mas-1-117.jpg
+---
+place:
+  id: rumah-makan-dita
+  n: Rumah Makan Dita
+  cat: Restaurant dan Cafe
+  url: https://www.mypangandaran.com/place/rumah-makan-dita
+  img: https://www.mypangandaran.com/gambar/place/informasi-rumah-makan-dita-115_a.jpg
+---
+place:
+  id: yan-s-seafood
+  n: Yan`s Seafood
+  cat: Restaurant dan Cafe
+  url: https://www.mypangandaran.com/place/yan-s-seafood
+  img: https://www.mypangandaran.com/gambar/place/informasi-yans-seafood-103.jpg
+---
+place:
+  id: rm-karya-bahari-2
+  n: RM Karya Bahari 2
+  cat: Restaurant dan Cafe
+  url: https://www.mypangandaran.com/place/rm-karya-bahari-2
+  img: https://www.mypangandaran.com/gambar/place/informasi-rm-karya-bahari-2-54.gif
+---
+place:
+  id: rumah-makan-risma
+  n: Rumah Makan Risma
+  cat: Restaurant dan Cafe
+  url: https://www.mypangandaran.com/place/rumah-makan-risma
+  img: https://www.mypangandaran.com/gambar/place/informasi-rumah-makan-risma-38.gif
+---
+place:
+  id: rumah-makan-karya-bahari-1
+  n: Rumah Makan Karya Bahari 1
+  cat: Restaurant dan Cafe
+  url: https://www.mypangandaran.com/place/rumah-makan-karya-bahari-1
+  img: https://www.mypangandaran.com/gambar/place/informasi-rumah-makan-karya-bahari-36.gif
+---
+place:
+  id: rumah-makan-sari-melati
+  n: Rumah Makan Sari Melati
+  cat: Restaurant dan Cafe
+  url: https://www.mypangandaran.com/place/rumah-makan-sari-melati
+  img: https://www.mypangandaran.com/gambar/place/informasi-rumah-makan-sari-melati-pantai-pangandaran-8.jpg
+---
+place:
+  id: ok-store
+  n: OK Store
+  cat: Telekomunikasi
+  url: https://www.mypangandaran.com/place/ok-store
+  img: https://www.mypangandaran.com/gambar/place/place-ok-store-268-l.jpg
+---
+place:
+  id: telkom-pangandaran
+  n: Telkom Pangandaran
+  cat: Telekomunikasi
+  url: https://www.mypangandaran.com/place/telkom-pangandaran
+  img: https://www.mypangandaran.com/gambar/place/informasi-telkom-pangandaran-121.jpg
+---
+place:
+  id: warnet-dwi-pasya
+  n: Warnet Dwi Pasya
+  cat: Telekomunikasi
+  url: https://www.mypangandaran.com/place/warnet-dwi-pasya
+  img: https://www.mypangandaran.com/gambar/place/informasi-warnet-dwi-pasya-25.jpg
+---
+place:
+  id: cin-net-dunia-di-depan-mata
+  n: Cin-net - Dunia Di Depan Mata
+  cat: Telekomunikasi
+  url: https://www.mypangandaran.com/place/cin-net-dunia-di-depan-mata
+  img: https://www.mypangandaran.com/gambar/place/informasi-cin-net-dunia-di-depan-mata-9.jpg
+---

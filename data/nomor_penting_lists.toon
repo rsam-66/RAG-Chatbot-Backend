@@ -1,0 +1,30 @@
+emergency_contact:
+  id: kantor-polisi-sektor-pangandaran
+  n: Kantor Polisi Sektor Pangandaran
+  addr: Jl. Merdeka no 175, Pangandaran, Indonesia 46396
+  tel: 0265-639075
+---
+emergency_contact:
+  id: puskesmas-pangandaran
+  n: Puskesmas Pangandaran
+  addr: Jl. Parapat No. 11 Pangandaran , Indonesia 46396
+  tel: 0265-6639118
+---
+emergency_contact:
+  id: kantor-balawista
+  n: Kantor Balawista
+  addr: Jl. Pantai Barat no 33, Pangandaran, Indonesia 46396
+  tel: 0265-630179
+---
+emergency_contact:
+  id: kantor-kecamatan-pangandaran
+  n: Kantor Kecamatan Pangandaran
+  addr: Jl.Raya Merdeka No 185 , Indonesia 46396
+  tel: 0265-639073
+---
+emergency_contact:
+  id: telkom-pangandaran
+  n: Telkom Pangandaran
+  addr: Jl. Jl. Kidang Pananjung, Pangandaran, Indonesia 4639
+  tel: 0265-630777
+---

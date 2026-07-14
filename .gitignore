@@ -1,0 +1,50 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Generated Data
+chroma_db/
+chroma_db_backup*/
+
+# Testing & Coverage
+.pytest_cache
+.coverage
+htmlcov/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build & Distribution
+build/
+dist/
+*.egg-info/
+
+TA/
+Doc/
+test/

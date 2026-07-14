@@ -1,0 +1,101 @@
+# ============================================================================
+# 🐳 DOCKER COMPOSE - LOCAL DEVELOPMENT
+# Untuk development/testing lokal dengan semua service (MySQL, Ollama, FastAPI)
+# ============================================================================
+# Usage: docker-compose up -d
+# ============================================================================
+
+# version: "3.8"
+
+services:
+  # MYSQL DATABASE - LOCAL ONLY
+  # Untuk HF Spaces, gunakan cloud database (Vercel, Railway, PlanetScale, etc)
+  mysql:
+    image: mysql:8.0
+    container_name: chatbot-mysql-local
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: chatbot_db
+    ports:
+      - "3306:3306" # LOCAL: Direct access from host
+    volumes:
+      - mysql_data:/var/lib/mysql # Persist data on host
+    networks:
+      - rag-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # OLLAMA - LOCAL & PUBLIC
+  # Untuk HF Spaces: Jalankan Ollama di server terpisah (lambat di container gratis)
+  # hapus bagian ini jika menggunakan Ollama dari device langsung (diluar docker)
+  # ollama:
+  #   image: ollama/ollama:latest
+  #   container_name: ollama-local
+  #   ports:
+  #     - "11434:11434"
+  #   volumes:
+  #     - ollama_data:/root/.ollama
+  #   environment:
+  #     - OLLAMA_HOST=0.0.0.0:11434
+  #   networks:
+  #     - rag-network
+  #   restart: unless-stopped
+
+  # ADMINER - MySQL Dashboard
+  adminer:
+    image: adminer:latest
+    container_name: chatbot-adminer
+    ports:
+      - "8080:8080"
+    depends_on:
+      - mysql
+    networks:
+      - rag-network
+    restart: unless-stopped
+    # Default login: Server=mysql, Username=root, Password=root
+
+  # RAG CHATBOT API - LOCAL & PUBLIC
+  rag-chatbot:
+    build: .
+    container_name: rag-chatbot-api
+    ports:
+      - "7860:7860"
+    depends_on:
+      mysql:
+        condition: service_healthy # LOCAL: Wait for MySQL
+        # ollama:
+        #   condition: service_started
+    environment:
+      # DATABASE - Load from .env file
+      # LOCAL: mysql+pymysql://root:root@mysql:3306/chatbot_db
+      # Atau MySQL lokal/external via .env
+      # Syntax: ${VARIABLE:-default_value}
+      - DATABASE_URL=${DATABASE_URL:-mysql+pymysql://root:root@mysql:3306/chatbot_db}
+
+      # OLLAMA - Load from .env file
+      # LOCAL: http://ollama:11434 (default dari docker-compose)
+      # Atau Ollama lokal/external via .env
+      - OLLAMA_URL=http://ollama:11434
+      #- OLLAMA_URL=${OLLAMA_URL}
+
+      # 🔧 DEBUG & PYTHON
+      - DEBUG=${DEBUG:-false}
+      - PYTHONUNBUFFERED=${PYTHONUNBUFFERED:-1}
+    volumes:
+      - ./data:/app/data
+      - ./chroma_db:/app/chroma_db
+    networks:
+      - rag-network
+    restart: unless-stopped
+
+volumes:
+  mysql_data: # LOCAL: MySQL data persistence
+  ollama_data:
+
+networks:
+  rag-network:
+    driver: bridge
